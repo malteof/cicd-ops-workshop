@@ -14,8 +14,8 @@ Here, we will look at a small CI/CD pipeline that runs checks when code gets pus
 You need [Git](https://git-scm.com/), [uv](https://docs.astral.sh/uv/getting-started/installation/), and an account on GitHub or GitLab.
 
 1. Fork or upload this repository and clone it locally:
-   - **GitHub**: 
-   - **GitLab**: 
+   - **GitHub**:
+   - **GitLab**:
 2. Open a terminal in the cloned local repository.
 3. Install the dependencies:
 
