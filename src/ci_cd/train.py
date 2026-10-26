@@ -1,6 +1,7 @@
 import json
 import pathlib
 import os
+import cowsay
 
 import joblib
 from sklearn.datasets import load_iris
