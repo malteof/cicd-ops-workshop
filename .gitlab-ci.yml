@@ -32,6 +32,7 @@ lint:
 
 # Run the tests.
 test:
+  needs: lint
   stage: test
   script:
     - uv run pytest tests/ -v
