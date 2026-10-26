@@ -1,6 +1,6 @@
 import json
 import pathlib
-import os #adding a comment
+import os
 
 import joblib
 from sklearn.datasets import load_iris
